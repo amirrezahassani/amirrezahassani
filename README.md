@@ -54,7 +54,7 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
 
 <h2 align="center">
   <b>
-    I look forward to opportunities to grow
+    ---- I look forward to opportunities to grow ----
   </b>
 </h2>
 
