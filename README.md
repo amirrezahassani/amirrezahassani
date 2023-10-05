@@ -27,7 +27,6 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
   </a>
 </div>
 
-<style>
   .image-container {
     display: flex;
     justify-content: center;
@@ -36,7 +35,6 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
   .image-container img {
     margin: 0 10px;
   }
-</style>
 
 <h2 align="center"> 📚 is learning to: 🧗🏻‍♂️ </h2>
 
