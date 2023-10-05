@@ -27,18 +27,11 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
   </a>
 </div>
 
-  .image-container {
-    display: flex;
-    justify-content: center;
-  }
-
-  .image-container img {
-    margin: 0 10px;
-  }
+    
 
 <h2 align="center"> 📚 is learning to: 🧗🏻‍♂️ </h2>
 
-<div class="image-container" align="cnter">
+<div display="flex" align="cnter" justify-content="center" margin="0 10px">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Keras.png" width="100" height="100">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Ploty.png" width="100" height="100">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/PyTorch.png" width="100" height="100">
