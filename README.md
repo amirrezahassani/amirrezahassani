@@ -53,6 +53,3 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
 <h1 align="center"> I look forward to opportunities to grow </h1>
 
 <br> 
-<br> 
-
-ؤ
