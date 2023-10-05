@@ -40,10 +40,10 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
 
 <h2 align="center"> 📚 is learning to: 🧗🏻‍♂️ </h2>
 
-<div align="center" display="flex" justify-content="center" margin="0px 180px">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Keras.png" width="65" height="65">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Ploty.png" width="65" height="65">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/PyTorch.png" width="65" height="65">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/TensorFlow.png" width="65" height="65">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/scikit-learn.png" width="65" height="65">
+<div align="center" display="flex" justify-content="center" margin="0px 180">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Keras.png" width="55" height="55">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Ploty.png" width="55" height="55">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/PyTorch.png" width="55" height="55">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/TensorFlow.png" width="55" height="55">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/scikit-learn.png" width="55" height="55">
 </div>
