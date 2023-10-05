@@ -4,7 +4,7 @@
 <br> 
 </div>
 
-<h2 align="center"> 🙋🏽‍♂️ About Me 💻 </h2>
+<h2 align="center"> 🙋🏽‍♂️ About 💻 </h2>
 <p align="center"> I am a Python programmer with a passion for data science. As a current student, I am constantly seeking new opportunities to learn and grow in my field. 
 When I am not coding, you can find me exploring new datasets, analyzing trends, and visualizing data. I am always eager to dive into new projects and challenges, and I believe that my skills in Python and data analysis make me a valuable asset to any team. </p>
 <br>
@@ -52,8 +52,10 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
   <br>
 </div>
 
-<h1 align="center">
-I look forward to opportunities to grow 
-</h1>
+<h2 align="center">
+  <strong>
+    I look forward to opportunities to grow
+  </strong>
+</h2>
 
 <br> 
