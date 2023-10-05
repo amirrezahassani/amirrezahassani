@@ -18,4 +18,4 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
 <a href="https://telegram.me/iamirrezahassani"> <img  align="center" src = "https://github.com/amirrezahassani/amirrezahassani/blob/main/image/icons8-telegram-48.png?raw=true"></a>
 
 <h2 align="center"> 📚 is learning: 🧗🏻‍♂️ </h2>
-<img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Keras.png">
+<img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Keras.png" width="100" height="100">
