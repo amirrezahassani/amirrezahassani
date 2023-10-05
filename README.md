@@ -46,4 +46,13 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/PyTorch.png" width="55" height="55">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/TensorFlow.png" width="55" height="55">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/scikit-learn.png" width="55" height="55">
+  <br> 
+  <br> 
 </div>
+
+<h2> I look forward to opportunities to grow </h2>
+
+<br> 
+<br> 
+
+ؤ
