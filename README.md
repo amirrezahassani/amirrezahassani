@@ -31,7 +31,7 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
 
 <h2 align="center"> 📚 is learning to: 🧗🏻‍♂️ </h2>
 
-<div display="flex" align="cnter" justify-content="center" margin="0px 30px">
+<div align="center" display="flex" justify-content="center" margin="0px 30px">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Keras.png" width="60" height="60">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Ploty.png" width="60" height="60">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/PyTorch.png" width="60" height="60">
