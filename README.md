@@ -41,9 +41,9 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
 <h2 align="center"> 📚 is learning to: 🧗🏻‍♂️ </h2>
 
 <div align="center" display="flex" justify-content="center" margin="0px 80px">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Keras.png" width="80" height="80">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Ploty.png" width="80" height="80">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/PyTorch.png" width="80" height="80">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/TensorFlow.png" width="80" height="80">
-  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/scikit-learn.png" width="80" height="80">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Keras.png" width="65" height="65">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Ploty.png" width="65" height="65">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/PyTorch.png" width="65" height="65">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/TensorFlow.png" width="65" height="65">
+  <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/scikit-learn.png" width="65" height="65">
 </div>
