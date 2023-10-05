@@ -13,3 +13,6 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
 
 <h2 align="center"> ✍🏼 Contact with me 📱 </h2>
 <a href="mailto:amirrezahassani.profession@gmail.com"> <img  align="center" src = "https://github.com/amirrezahassani/amirrezahassani/blob/main/image/icons8-mail-48.png?raw=true"></a>
+<a href="https://linkedin.com/in/amirrezahassanilinkdin"> <img  align="center" src = "https://github.com/amirrezahassani/amirrezahassani/blob/main/image/icons8-linkedin-48.png?raw=true"></a>
+<a href="https://instagram.com/iamirrezahassani"> <img  align="center" src = "https://github.com/amirrezahassani/amirrezahassani/blob/main/image/icons8-instagram-48.png?raw=true"></a>
+<a href="https://telegram.me/iamirrezahassani"> <img  align="center" src = "https://github.com/amirrezahassani/amirrezahassani/blob/main/image/icons8-telegram-48.png?raw=true"></a>
