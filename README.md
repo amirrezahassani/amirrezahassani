@@ -39,7 +39,8 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
 </style>
 
 <h2 align="center"> 📚 is learning to: 🧗🏻‍♂️ </h2>
-<div class="image-container">
+
+<div class="image-container" align="cnter">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Keras.png" width="100" height="100">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/Ploty.png" width="100" height="100">
   <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/PyTorch.png" width="100" height="100">
