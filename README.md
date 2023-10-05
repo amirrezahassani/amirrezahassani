@@ -52,7 +52,8 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
   <br>
 </div>
 
-<h1 align="center"></h1>
-#I look forward to opportunities to grow 
+<h1 align="center">
+I look forward to opportunities to grow 
+</h1>
 
 <br> 
