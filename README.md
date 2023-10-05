@@ -32,9 +32,6 @@ When I am not coding, you can find me exploring new datasets, analyzing trends, 
   <a href="https://telegram.me/iamirrezahassani">
     <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/icons8-telegram-48.png?raw=true" />
   </a>
-  <a href="https://zil.ink/iamirrezahassani">
-    <img src="https://github.com/amirrezahassani/amirrezahassani/blob/main/image/icons8-link-49.png" />
-  </a>
   <br> 
   <br> 
 </div>
